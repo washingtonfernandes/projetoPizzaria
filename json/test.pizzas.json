@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "649b168f90a45ad1ba30bf62"
+  },
+  "nome": "Calabresa",
+  "descricao": "calabresa defumada e queijo",
+  "valor": "50.00",
+  "categoria_pizza_id": {
+    "$oid": "649a516a7bd851dbf34e4dd0"
+  }
+},
+{
+  "_id": {
+    "$oid": "649b168f90a45ad1ba30bf63"
+  },
+  "nome": "Quatro queijos",
+  "descricao": "Mussarela, parmesao, lanche e gorgonzola.",
+  "valor": "45.00",
+  "categoria_pizza_id": {
+    "$oid": "649a516a7bd851dbf34e4dd1"
+  }
+},
+{
+  "_id": {
+    "$oid": "649b168f90a45ad1ba30bf64"
+  },
+  "nome": "Banana com doce de leite",
+  "descricao": "Banana prata e doce de leite caseiro",
+  "valor": "60.00",
+  "categoria_pizza_id": {
+    "$oid": "649a516a7bd851dbf34e4dd1"
+  }
+},
+{
+  "_id": {
+    "$oid": "649b168f90a45ad1ba30bf65"
+  },
+  "nome": "Morango com chocolate",
+  "descricao": "Morangos com chocolate amargo",
+  "valor": "75.00",
+  "categoria_pizza_id": {
+    "$oid": "649a516a7bd851dbf34e4dd0"
+  }
+}]

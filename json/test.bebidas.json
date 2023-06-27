@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "649b179090a45ad1ba30bf66"
+  },
+  "nome": "Refrigerante lata",
+  "descricao": "Refrigerante lata 330ml",
+  "valor": "6.00"
+},
+{
+  "_id": {
+    "$oid": "649b179090a45ad1ba30bf67"
+  },
+  "nome": "Água mineral",
+  "descricao": "água mineral com/sem gás 500ml",
+  "valor": "4.00"
+},
+{
+  "_id": {
+    "$oid": "649b179090a45ad1ba30bf68"
+  },
+  "nome": "Cerveja long neck",
+  "descricao": "Cerveja tradicional 330ml",
+  "valor": "10.00"
+},
+{
+  "_id": {
+    "$oid": "649b179090a45ad1ba30bf69"
+  },
+  "nome": "Suco de frutas",
+  "descricao": "Suco de laranja, uva ou limão",
+  "valor": "9.00"
+}]

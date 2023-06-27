@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "649b13c090a45ad1ba30bf5f"
+  },
+  "nome": "Dinheiro"
+},
+{
+  "_id": {
+    "$oid": "649b13c090a45ad1ba30bf60"
+  },
+  "nome": "Pix"
+},
+{
+  "_id": {
+    "$oid": "649b13c090a45ad1ba30bf61"
+  },
+  "nome": "Cartão de Crédito"
+}]

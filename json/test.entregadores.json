@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "649a51b67bd851dbf34e4dd2"
+  },
+  "nome": "Marcelo Delano",
+  "Telefone": "51985698565"
+},
+{
+  "_id": {
+    "$oid": "649a51b67bd851dbf34e4dd3"
+  },
+  "nome": "Lucas Rosa",
+  "Telefone": "51996658598"
+},
+{
+  "_id": {
+    "$oid": "649a51b67bd851dbf34e4dd4"
+  },
+  "nome": "Mateus Luan",
+  "Telefone": "51988856554"
+}]

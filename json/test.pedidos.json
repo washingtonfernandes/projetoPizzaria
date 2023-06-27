@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6a"
+  },
+  "data_hora": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "cliente_id": {
+    "$oid": "649a50e47bd851dbf34e4dcb"
+  },
+  "funcionario_id": {
+    "$oid": "649a51fe7bd851dbf34e4dd6"
+  },
+  "item_pizza": [
+    {
+      "pizzas_id": {
+        "$oid": "649b168f90a45ad1ba30bf62"
+      },
+      "quantidade": 1,
+      "tamanho": "pequena"
+    }
+  ],
+  "item_bebida": [
+    {
+      "bebidas_id": {
+        "$oid": "649b179090a45ad1ba30bf66"
+      },
+      "quantidade": 2
+    }
+  ],
+  "pagamentos": [
+    {
+      "tipo_pagamento_id": {
+        "$oid": "649b13c090a45ad1ba30bf5f"
+      },
+      "observacoes": "pagamento na entrega"
+    }
+  ],
+  "destino": "Interno",
+  "valor_total": "150.00"
+},
+{
+  "_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6b"
+  },
+  "data_hora": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "cliente_id": {
+    "$oid": "649a50e47bd851dbf34e4dcc"
+  },
+  "funcionario_id": {
+    "$oid": "649a51fe7bd851dbf34e4dd6"
+  },
+  "item_pizza": [
+    {
+      "pizzas_id": {
+        "$oid": "649b168f90a45ad1ba30bf63"
+      },
+      "quantidade": 2,
+      "tamanho": "média"
+    }
+  ],
+  "item_bebida": [
+    {
+      "bebidas_id": {
+        "$oid": "649b179090a45ad1ba30bf67"
+      },
+      "quantidade": 5
+    }
+  ],
+  "pagamentos": [
+    {
+      "tipo_pagamento_id": {
+        "$oid": "649b13c090a45ad1ba30bf60"
+      },
+      "observacoes": "pagamento na entrega"
+    }
+  ],
+  "destino": "Entrega",
+  "valor_total": "210.00"
+},
+{
+  "_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6c"
+  },
+  "data_hora": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "cliente_id": {
+    "$oid": "649a50e47bd851dbf34e4dcd"
+  },
+  "funcionario_id": {
+    "$oid": "649a51fe7bd851dbf34e4dd7"
+  },
+  "item_pizza": [
+    {
+      "pizzas_id": {
+        "$oid": "649b168f90a45ad1ba30bf64"
+      },
+      "quantidade": 4,
+      "tamanho": "grande"
+    }
+  ],
+  "item_bebida": [
+    {
+      "bebidas_id": {
+        "$oid": "649b179090a45ad1ba30bf68"
+      },
+      "quantidade": 10
+    }
+  ],
+  "pagamentos": [
+    {
+      "tipo_pagamento_id": {
+        "$oid": "649b13c090a45ad1ba30bf61"
+      },
+      "observacoes": "pagamento na entrega"
+    }
+  ],
+  "destino": "Entrega",
+  "valor_total": "250.00"
+}]

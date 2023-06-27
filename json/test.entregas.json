@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "649b1dce90a45ad1ba30bf6d"
+  },
+  "entregador_id": {
+    "$oid": "649a51b67bd851dbf34e4dd2"
+  },
+  "pedido_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6a"
+  },
+  "valor_entrega": "15.00",
+  "observacao": "entrega na portaria"
+},
+{
+  "_id": {
+    "$oid": "649b1dce90a45ad1ba30bf6e"
+  },
+  "entregador_id": {
+    "$oid": "649a51b67bd851dbf34e4dd3"
+  },
+  "pedido_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6b"
+  },
+  "valor_entrega": "10.00",
+  "observacao": "ligar 5198989898"
+},
+{
+  "_id": {
+    "$oid": "649b1dce90a45ad1ba30bf6f"
+  },
+  "entregador_id": {
+    "$oid": "649a51b67bd851dbf34e4dd4"
+  },
+  "pedido_id": {
+    "$oid": "649b1c5f90a45ad1ba30bf6c"
+  },
+  "valor_entrega": "7.00",
+  "observacao": "loja doces e sonhos"
+}]

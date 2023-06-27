@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "649a51fe7bd851dbf34e4dd5"
+  },
+  "nome": "Fernandos Fulano",
+  "Telefone": "51985698547",
+  "Observacao": "fixos",
+  "salario": "1500.00"
+},
+{
+  "_id": {
+    "$oid": "649a51fe7bd851dbf34e4dd7"
+  },
+  "nome": "Robson Rodrigues",
+  "Telefone": "51998956554",
+  "Observacao": "fixos",
+  "salario": "1600.00"
+},
+{
+  "_id": {
+    "$oid": "649b25c22308fe404b55311d"
+  },
+  "nome": "Rodrigo Alves",
+  "Telefone": "51988888547",
+  "Observacao": "Fixo",
+  "salario": "1700.00"
+},
+{
+  "_id": {
+    "$oid": "649b25d22308fe404b55311e"
+  },
+  "nome": "Jessica Silva",
+  "Telefone": "51977778547",
+  "Observacao": "Fixo",
+  "salario": "2000.00"
+},
+{
+  "_id": {
+    "$oid": "649b26752308fe404b553121"
+  },
+  "nome": "Alex Folk",
+  "Telefone": "5199555555",
+  "Observacao": "fixos",
+  "salario": "1000.00"
+}]
